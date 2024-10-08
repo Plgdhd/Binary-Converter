@@ -1,0 +1,5 @@
+﻿  main.cpp
+H:\Программы на С++\binaryConverter\main.cpp(4,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+H:\Программы на С++\binaryConverter\main.cpp(16,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+H:\Программы на С++\binaryConverter\main.cpp(18,19): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  binaryConverter.vcxproj -> H:\Программы на С++\binaryConverter\x64\Debug\binaryConverter.exe
